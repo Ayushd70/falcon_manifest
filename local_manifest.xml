@@ -4,7 +4,7 @@
     <!-- local -->
     <project path="device/motorola/falcon" name="RahifM/device_motorola_falcon" remote="github" revision="n7x-caf" />
     <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-14.1" />
-    <project path="device/motorola/msm8226-common" name="RahifM/device_motorola_falcon" remote="github" revision="n7x-caf" />
+    <project path="device/motorola/msm8226-common" name="RahifM/device_motorola_msm8826-common" remote="github" revision="n7x-caf" />
     
     
       
